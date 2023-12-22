@@ -1,3 +1,4 @@
+<!DOCKTYPE HTML>
 {
     "format_version":  "1.8.0",
     "minecraft:entity":  {
